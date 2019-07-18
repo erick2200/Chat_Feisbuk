@@ -1,2 +1,2 @@
-Buendia Gutierrez Ivan \n
-Gutierrez Enriquez Erick
+#Buendia Gutierrez Ivan 
+#Gutierrez Enriquez Erick
