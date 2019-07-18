@@ -1,2 +1,2 @@
-Buendia Gutierrez Ivan
+Buendia Gutierrez Ivan \\
 Gutierrez Enriquez Erick
